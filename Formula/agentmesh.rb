@@ -1,8 +1,8 @@
 class Agentmesh < Formula
   desc "Turn any AI coding assistant into a dispatchable, nudge-able agent"
   homepage "https://agentmeshhq.dev"
-  url "https://registry.npmjs.org/@agentmeshhq/agent/-/agent-0.1.6.tgz"
-  sha256 "9d9d751e350d7d98f4af12234e7c016166f2770b085e1219b38708a4da230c4f"
+  url "https://registry.npmjs.org/@agentmeshhq/agent/-/agent-0.1.7.tgz"
+  sha256 "663e358967ca405178dad76433a7466436e9d8bed38b6fbec13f4dfc2a76d5e8"
   license "MIT"
 
   depends_on "node"
