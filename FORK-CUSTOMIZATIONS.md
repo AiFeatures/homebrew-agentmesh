@@ -1,6 +1,6 @@
 # Fork Customizations
 
-> This repository is a fork of [unknown]().
+> This repository is a fork of [therajushahi/homebrew-agentmesh](https://github.com/therajushahi/homebrew-agentmesh).
 > Managed under the [iAiFy Enterprise](https://github.com/enterprises/iAiFy) governance model.
 
 ## Purpose
@@ -11,7 +11,7 @@ Homebrew tap for AgentMesh - AI agent wrapper
 
 | Property | Value |
 |----------|-------|
-| Upstream | [unknown]() |
+| Upstream | [therajushahi/homebrew-agentmesh](https://github.com/therajushahi/homebrew-agentmesh) |
 | Language | Ruby |
 | Fork org | AiFeatures |
 
